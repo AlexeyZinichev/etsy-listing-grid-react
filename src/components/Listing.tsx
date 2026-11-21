@@ -1,5 +1,4 @@
 import React from 'react';
-import './Listing.css';
 import { ListingItem } from '../types';
 
 function formatPrice(value, currency) {
